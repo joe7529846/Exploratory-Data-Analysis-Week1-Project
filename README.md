@@ -1,5 +1,6 @@
 # Exploratory-Data-Analysis-Week1-Project
 Exploratory Data Analysis Week1 Project
+
 The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
 
 Date: Date in format dd/mm/yyyy
